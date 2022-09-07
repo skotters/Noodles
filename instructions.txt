@@ -1,0 +1,5 @@
+Lorem ipsum dolor test stuff.
+Is this language Latin or something?
+Isn't Latin like a dead language?
+Aren't there web pages that talk about how people claim its a dead language but here are the reasons its importan to learn?
+Regardless, it's probably a waste of time to learn and the time spent learning that is probably better spent learning some code!
