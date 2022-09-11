@@ -1,3 +1,5 @@
+Instructions for deploying this site to the server.
+---------------------
 Lorem ipsum dolor test stuff.
 Is this language Latin or something?
 Isn't Latin like a dead language?
